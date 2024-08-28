@@ -1,0 +1,137 @@
+NOTEPAD:
+--> Notepad is a text editor which is a program similar to a word processor but can’t perform any special editing.
+--> No embedded codes are inserted into the document.
+With notepad you can :
+I. Create simple text document.
+II. Multi-tasking or create batch file
+
+How to open notepad :
+1. Using mouse :
+I. Click On “Start Button”
+II. Click “All Programs”
+III. Click On “Accessories”
+IV. Click “Notepad”
+
+2. Using keyboard :
+I. Process 1:
+a. Press “Win key + R”
+b. The ”Run” command box will appear
+c. Inside the “Open” drop-down box type “notepad”
+d. Then press ”enter key ” for “OK”
+
+II. Process 2 :
+a. Press “windows” key to open “Start menu”
+b. Using the arrow key, go to “All Programs” press enter to open all installed program
+c. Do same , to go to “Accessories”
+d. Then go to “Notepad”, press enter key to open notepad windows
+
+SHORTCUT KEYS FOR NOTEPAD:
+
+Esc: Close an open dialog box.
+F1: Open the Microsoft help option for Notepad.
+F5: To insert the current time and date.
+Alt + E: Open Edit menu.
+Alt + F: Open File menu.									
+Alt + H: Open Help menu.
+Alt + O: Open Format menu.
+Alt + V: Open View menu.
+Ctrl + Tab: To give space between text.
+Ctrl + [- or +]: To zoom in and out the page, press Ctrl and "-" for zoom out and "+"
+for zoom in. 
+Ctrl + A: Select all the text or characters on the page.
+Ctrl + E: This combination of keys is used to search that letter, word, or special character
+          on the Bing search engine. [For that first point the text cursor behind that letter, word,
+          or special character]
+Ctrl + F or F3: Open the text Find dialog box.
+Ctrl + H: Open the text Replace dialog box.
+Ctrl + I: To give space between the text.
+Ctrl + J or Ctrl + M: This combination of keys is used to break the line.
+Ctrl + N: Open a new note in the same window.
+Ctrl + Shift + N: Open a new note in a new window.
+Ctrl + P: Open the Print dialog box.
+Ctrl + S: To Save the note.
+Ctrl + Shift + S: Open the Save dialog box so that you can browse a file location to
+save the note. 
+Ctrl + W: Close the Notepad window.
+AltGr or F10: Switch the text cursor into the normal select mode.
+PgUp: Go to the top of the page.
+
+
+WORDPAD:
+Microsoft WordPad is a free rich text editor included with Microsoft Windows. Although capable of
+doing more than Notepad, WordPad is not as advanced as Microsoft Word.
+HOW TO OPEN WORDPAD
+
+1ST METHOD
+Click on Start
+Click on All Programs
+Click on Accessories
+Click On word Pad
+
+2ND METHOD
+Click On Start
+Click On Run
+Type Write
+Click on Ok
+
+SHORTCUT KEYS FOR  WORDPAD:
+
+Ctrl+N:Create a new document
+Ctrl+O:Open an existing document
+Ctrl+S:Save changes to a document
+F12:Save the document as a new file
+Ctrl+P:Print a document
+Alt+F4:Close WordPad
+Ctrl+Z:Undo a change
+Ctrl+Y:Redo a change
+Ctrl+A:Select the entire document
+Ctrl+X:Cut a selection
+Ctrl+C:Copy a selection to the Clipboard
+Ctrl+V:paste a selection to the Clipboard
+Ctrl+B:Make selected text bold
+Ctrl+I:Italicize selected text
+Ctrl+U:Underline selected text
+Ctrl+=:Make selected text subscript
+Ctrl+Shift+=:Make selected text superscript
+Ctrl+L:Align text left
+Ctrl+E:Align text center
+Ctrl+R:Align text right
+Ctrl+J:Justify text
+Ctrl+1:Set single line spacing
+Ctrl+2:Set double line spacing
+Ctrl+5:Set line spacing to 1.5
+Ctrl+Shift+>:Increase the font size
+Ctrl+Shift+<:Decrease the font size
+Ctrl+Shift+A:Change characters to all capitals
+Ctrl+Shift+L:Change the bullet style
+Ctrl+D:Insert a Microsoft Paint drawing
+Ctrl+F:Find text in a document
+F3: Find the next instance of the text in the Find dialog box
+Ctrl+H: Replace text in a document
+Ctrl+Left Arrow: Move the cursor one word to the left
+Ctrl+Right Arrow: Move the cursor one word to the right
+Ctrl+Up Arrow: Move the cursor to the line above
+Ctrl+Down Arrow: Move the cursor to the line below
+Ctrl+Home: Move to the beginning of the document
+Ctrl+End:Move to the end of the document
+Ctrl+Page Up: Move up one page
+Ctrl+Page Down: Move down one page
+Ctrl+Delete: Delete the next word
+F10:Display keytips
+Shift+F10: Show the current shortcut menu
+F1:Open WordPad Help
+
+Why do we use Notepad and WordPad?
+
+Notepad is a basic text-editing program that enables computer users to create documents. Whereas, WordPad is a program that you can use to create documents such as letters, notes, etc. with better formatting features.
+
+
+
+
+
+
+
+
+
+
+
